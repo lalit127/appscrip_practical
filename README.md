@@ -29,6 +29,13 @@ lib
    -widget
  -utils
  -routes
+ -config
+
+# Functionality: 
+  
+Fetch User List Api using bloc archictecture with clean ui. 
+Added Search Bar to search user.
+Check Internet Connecivity. 
 
 
 
